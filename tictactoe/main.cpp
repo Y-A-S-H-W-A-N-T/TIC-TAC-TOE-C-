@@ -102,4 +102,5 @@ int main()
        displayboard();
        checkboard();
     }
+    cout<<"+---------- THE END ----------+"<<endl;
 }
